@@ -9,3 +9,10 @@ If you wish to change length of 'Folder Name/Naming Structure Length please find
 
 
 This is my first useful python tool.
+
+To USE
+
+  1. Download Py-Media-Organizer.py
+  2. Run Script
+  3. Input Directory in format "C:/Users/USERNAME/Photos/"
+  
